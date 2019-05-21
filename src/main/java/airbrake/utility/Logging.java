@@ -1,5 +1,5 @@
 // Logging.java
-package io.airbrake.utility;
+package airbrake.utility;
 
 import java.util.Arrays;
 

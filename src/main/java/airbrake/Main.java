@@ -1,7 +1,6 @@
-package io.airbrake;
+package airbrake;
 
-import io.airbrake.utility.Logging;
-
+import airbrake.utility.Logging;
 import java.util.GregorianCalendar;
 
 
