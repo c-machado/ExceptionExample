@@ -1,7 +1,8 @@
 // Book.java
-package io.airbrake;
+package airbrake;
 
 import java.util.Date;
+
 
 /**
  * Simple example class to store book instances.

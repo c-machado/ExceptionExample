@@ -1,4 +1,4 @@
-package io.airbrake;
+package airbrake;
 
 public class Page
 {
